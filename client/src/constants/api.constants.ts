@@ -1,0 +1,5 @@
+export const USERS_API_ROUTE = '/users'
+export const POSTS_API_ROUTE = '/posts'
+export const NEW_API_ROUTE = '/new'
+export const LIKE_API_ROUTE = '/like'
+export const LIKED_USERS_API_ROUTE = '/liked_users'
